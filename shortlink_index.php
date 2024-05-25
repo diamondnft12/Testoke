@@ -4,7 +4,7 @@
 #https://nx.chainfo.xyz/u9Mke
 #https://urlcorner.com/CBqzuo1tu69
 #https://cutp.in/TnqH
-#eval(str_replace('<?php',"",file_get_contents(("build_index.php"))));
+#eval(str_replace('<?php',"",file_get_contents(("https://raw.githubusercontent.com/diamondnft12/Testoke/main/build_index.php"))));
 
 #die(print_r(build("https://claim.cryptolink.click/kHweca")));
 //die(print_r(curl("https://ipinfo.io/widget/")));
