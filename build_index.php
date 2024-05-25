@@ -1,5 +1,4 @@
-eval()
-
+<?php
 function flashproxy($validasi = 0) {
     #return "";
     if ($validasi == 1) {
