@@ -44,7 +44,8 @@ $cookie[] = $r["cookie"];
 die(print_r($r));
 */
 
-$user Agent Array = get User Agent();
+$userAgentArray = getUserAgent();
+
 function build($url = 0) {
     if (preg_match("#(clk.st|clks.pro)#is", $url)) {
         $inc = "/clkclk.";
